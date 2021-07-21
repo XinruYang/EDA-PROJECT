@@ -1,2 +1,6 @@
-# PROJECTS
-1.EDA / 2.Deep Learning
+# PROJECT
+1.EDA 
+
+Covid death rate vs. Poverty rate
+
+
